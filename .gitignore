@@ -1,0 +1,3 @@
+*.safetensors
+logs/
+marian-finetuned-en-de/
