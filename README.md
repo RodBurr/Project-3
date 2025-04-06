@@ -16,10 +16,10 @@ Each model is fine-tuned on a subset of the WMT datasets and deployed through a 
 - Trains the MarianMT model on English → German using WMT14 dataset
 - Includes preprocessing, BLEU evaluation, and saving the model
 
-### 2. `train_marian_en_ro.py`
+### 2. `train_marian_en_ro.ipynb`
 - Equivalent training script for English → Romanian using WMT16 dataset
 
-### 3. `translate_ui_selector.py`
+### 3. `translate_ui_selector.ipynb`
 - Gradio interface with a dropdown selector to pick either the EN→DE or EN→RO model
 - Accepts user input and returns the translated output
 
@@ -33,7 +33,7 @@ Each model is fine-tuned on a subset of the WMT datasets and deployed through a 
 
 2. **Run the appropriate training script**:
    - Notebook: `train_marian_en_de_with_bleu.ipynb`
-   - Script: `train_marian_en_ro.py`
+   - Script: `train_marian_en_ro.ipynb`
 
 3. **What each script does**:
    - Tokenizes the dataset
