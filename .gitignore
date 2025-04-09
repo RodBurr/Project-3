@@ -1,0 +1,8 @@
+*.safetensors
+logs/
+marian-finetuned-en-de/
+simple-finetuned-en-de/
+finetuned-en-ro/
+.DS_Store
+t5-finetuned-en-de/
+t5-finetuned-en-ro/
