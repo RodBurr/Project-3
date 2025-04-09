@@ -6,3 +6,4 @@ finetuned-en-ro/
 .DS_Store
 t5-finetuned-en-de/
 t5-finetuned-en-ro/
+*.mp3
