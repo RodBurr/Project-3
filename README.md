@@ -84,8 +84,3 @@ Roderick Burroughs [github](https://github.com/RodBurr)
 
 
 
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* 
-
