@@ -1,6 +1,6 @@
-# Tabby Lanauge Translator
+# Tabby Lanaguage Translator
 
-Personal Translator and basic langauge and sentence structure assistant. 
+Personal Translator and basic language and sentence structure assistant. 
 
 
 ## Description
