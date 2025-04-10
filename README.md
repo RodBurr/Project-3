@@ -1,4 +1,4 @@
-# Tabby Lanaguage Translator
+# Tabby Language Translator
 
 Personal Translator and basic language and sentence structure assistant. 
 
