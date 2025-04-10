@@ -14,9 +14,8 @@ This project demonstrates how to fine-tune and deploy multilingual translation m
 Each model is fine-tuned on a subset of the WMT datasets and deployed through a Gradio user interface.
 
 
-## Getting Started
 
-## Files 
+## Files Needed
 
 ### 1. `train_marian_en_de_with_bleu.ipynb`
 - Trains the MarianMT model on English → German using WMT14 dataset
