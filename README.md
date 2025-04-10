@@ -10,8 +10,9 @@ This project demonstrates how to fine-tune and deploy multilingual translation m
 
 - **English → German** (`marian-finetuned-en-de`)
 - **English → Romanian** (`finetuned-en-ro`)
+-  **English → Spanish** (`Helsinki-NLP/opus-mt-en-es`)
 
-Each model is fine-tuned on a subset of the WMT datasets and deployed through a Gradio user interface.
+Each model is fine-tuned on a subset of the WMT/Kaggle datasets and deployed through a Gradio user interface.
 
 
 
@@ -24,7 +25,10 @@ Each model is fine-tuned on a subset of the WMT datasets and deployed through a 
 ### 2. `train_marian_en_ro.ipynb`
 - Equivalent training script for English → Romanian using WMT16 dataset
 
-### 3. `translate_ui_selector.ipynb`
+### 3. `EN_to_ES_Model.ipynb`
+- Equivalent training script for English → Spanish using Kaggle dataset
+
+### 4. `translate_ui_selector.ipynb`
 - Gradio interface with a dropdown selector to pick either the EN→DE or EN→RO model
 - Accepts user input and returns the translated output
 
@@ -35,6 +39,7 @@ Each model is fine-tuned on a subset of the WMT datasets and deployed through a 
 1. **Choose a dataset**:
    - For English → German: `wmt14`, split `de-en`
    - For English → Romanian: `wmt16`, split `ro-en`
+   -  For English → Spanish: `EN_ES.txt`, split `en-es`
 
 2. **Run the appropriate training script**:
    - Notebook: `train_marian_en_de_with_bleu.ipynb`
