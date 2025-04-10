@@ -6,3 +6,8 @@ finetuned-en-ro/
 .DS_Store
 t5-finetuned-en-de/
 t5-finetuned-en-ro/
+*.mp3
+t5-small-finetuned-en-de/
+t5-small-finetuned-en-ro/
+*.mp3
+Chris en-es/

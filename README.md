@@ -30,10 +30,13 @@ Each model is fine-tuned on a subset of the WMT datasets and deployed through a 
 - Accepts user input and returns the translated output
 
 
+<<<<<<< HEAD
 ### Installing
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
+=======
+
 
 ### How to Train the Model
 
@@ -67,12 +70,17 @@ Each model is fine-tuned on a subset of the WMT datasets and deployed through a 
  - For large-scale training, switch to full dataset splits and train for more epochs
  - BLEU scores may vary depending on data size and fine-tuning depth
  - Trained models are saved locally and reused by the Gradio UI
+<<<<<<< HEAD
  - Powerpoint and streamlit code located in resources file
+=======
+ - Google Slides are located in resources file
+
 
 
 
 ## Authors/Contributors 
 
+<<<<<<< HEAD
 Christopher Davis
 
 Laxmi Atluri
@@ -82,9 +90,25 @@ Leonard Forrester
 Sara Moujahed
 
 Roderick Burroughs
+=======
+Christopher Davis [github](https://github.com/Glibbly)
+
+Laxmi Atluri [github](https://github.com/la-aicode)
+
+Leonard Forrester [github](https://github.com/leoforr)
+
+Sara Moujahed [github](https://github.com/saracmoujahed)
+
+Roderick Burroughs [github](https://github.com/RodBurr)
+
 
 
 ## Acknowledgments
 
+<<<<<<< HEAD
 Inspiration, code snippets, etc.
 * 
+=======
+
+
+>>>>>>> Laxmi
